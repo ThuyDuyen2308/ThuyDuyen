@@ -1,1 +1,0 @@
-CREATE TABLE sinh_vien (id INT, ten VARCHAR(100));
